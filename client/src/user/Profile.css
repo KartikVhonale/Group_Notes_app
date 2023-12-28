@@ -1,0 +1,35 @@
+.profile-container {
+    padding: 20px;
+    margin-top: 1.2 rem;
+  }
+  
+  .profile-info {
+    margin-bottom: 20px;
+  }
+  
+  .profile-avatar {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .profile-username {
+    margin-top: 10px;
+  }
+  
+  .quote-heading {
+    margin-bottom: 15px;
+  }
+  
+  .quote-block {
+    margin-bottom: 20px;
+  }
+  
+  .quote-message {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .no-quotes-message {
+    margin-top: 20px;
+  }
+  

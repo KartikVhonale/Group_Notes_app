@@ -1,0 +1,5 @@
+my quotes = http://localhost:3000/myqoute
+all quotes = http://localhost:3000/allquote
+create quote = http://localhost:3000/createquote
+sigin = http://localhost:3000/auth/signin
+sigup =http://localhost:3000/auth/signup

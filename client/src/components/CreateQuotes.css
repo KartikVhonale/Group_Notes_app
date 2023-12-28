@@ -1,0 +1,36 @@
+.quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  .quote-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  .quote-input {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .quote-btn {
+    padding: 10px;
+    background-color: #673ab7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .quote-btn:hover {
+    background-color: #512da8;
+  }
+  
